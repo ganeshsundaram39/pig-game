@@ -1,1 +1,1 @@
-PIG GAME
+#Pig is a simple dice game.
